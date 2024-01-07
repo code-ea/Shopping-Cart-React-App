@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/Shopping-Cart-React-App/static/css/main.50f2e998.css",
-    "main.js": "/Shopping-Cart-React-App/static/js/main.896f2545.js",
-    "static/media/logo.png": "/Shopping-Cart-React-App/static/media/logo.abe38ad162a16fe8cdda.png",
+    "main.css": "/Shopping-Cart-React-App/static/css/main.705ee31d.css",
+    "main.js": "/Shopping-Cart-React-App/static/js/main.d51cb934.js",
+    "static/media/logo2.png": "/Shopping-Cart-React-App/static/media/logo2.42a97d477cdbba0d795a.png",
+    "static/media/sortLogo.svg": "/Shopping-Cart-React-App/static/media/sortLogo.0769235a2ee5bbf940458d4b0df3e14f.svg",
+    "static/media/filter.svg": "/Shopping-Cart-React-App/static/media/filter.5d5bd1bd4063ad253ba779a4bcd153f8.svg",
     "index.html": "/Shopping-Cart-React-App/index.html",
-    "main.50f2e998.css.map": "/Shopping-Cart-React-App/static/css/main.50f2e998.css.map",
-    "main.896f2545.js.map": "/Shopping-Cart-React-App/static/js/main.896f2545.js.map"
+    "main.705ee31d.css.map": "/Shopping-Cart-React-App/static/css/main.705ee31d.css.map",
+    "main.d51cb934.js.map": "/Shopping-Cart-React-App/static/js/main.d51cb934.js.map"
   },
   "entrypoints": [
-    "static/css/main.50f2e998.css",
-    "static/js/main.896f2545.js"
+    "static/css/main.705ee31d.css",
+    "static/js/main.d51cb934.js"
   ]
 }
